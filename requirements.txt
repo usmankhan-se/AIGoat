@@ -25,7 +25,7 @@ httpx>=0.26.0
 mcp>=2.2.0,<2.3
 
 # Agentic Kill Chain lab: reads the uploaded invoice PDF (pure Python, no extra deps)
-pypdf>=5,<7
+pypdf>=7.0.1
 
 # Configuration
 pyyaml>=6.0.1
